@@ -12,14 +12,14 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923092668108", "Prince", false],
+  ["263717869574", "Lilnem", true],
   [''], 
   [''] 
 ]
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "263717869574" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
@@ -35,9 +35,9 @@ global.lolkeysapi = ['GataDios']
 //💌------------------------------------------💌
 //CONFIG VARS. Do not touch them⚠️
 
-  global.autoread = process.env.AUTOREAD !== 'false',
+  global.autoread = process.env.AUTOREAD !== 'true',
   global.statusView = process.env.STATUSVIEW !== 'false',
-  global.autoreaction = process.env.AutoReaction !== 'false',
+  global.autoreaction = process.env.AutoReaction !== 'true',
 
 //💌------------------------------------------💌
 
