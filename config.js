@@ -26,7 +26,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "263717869574" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
